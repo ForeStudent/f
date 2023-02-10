@@ -1,0 +1,52 @@
+
+  #body{
+    width: 700px;
+  }
+input[type=text], select{
+width:250px;
+padding:20px;
+display:inline-block;
+border: 1px solid black;
+border-radius: 40px;
+cursor: pointer;
+border-bottom: 5px solid blue;
+}
+input[type=text]:hover{
+background:green;
+}
+#body{
+  border:5px solid black;
+  text-align: center;
+  padding: 40px;
+  border-radius: 50px;
+  background:url("pic.png");
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-top:10px;
+  margin-left: 380px;
+  margin-right:380px;
+}
+button{
+ background: pink;
+ color:blue;
+ padding:10px;
+}
+form{
+ border:1px solid black;
+ border-radius: 50px;
+ padding:20px;
+ background:white;
+ padding-right: 50px;
+ padding-left: 50px;
+ padding-bottom:70px;
+ padding-top:20px;
+}
+h1{
+  background:white;
+  color:orange;
+  text-decoration: underline;
+}
+h2{
+ background-color:;
+ color:orange;
+}
